@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+data/
+.DS_Store
+config/yolov3.weights
+
 __pycache__/
 *.py[cod]
 *$py.class
